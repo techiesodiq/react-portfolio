@@ -13,14 +13,14 @@ export const data = [
     id: 2,
     name: "Sodiq Admin",
     image: RealEst,
-    github: "",
+    github: "https://github.com/techiesodiq/react-admin",
     live: "https://sodiq-admin.netlify.app/",
   },
   {
     id: 3,
     name: "YouTube Clone",
     image: WorkIm,
-    github: "",
+    github: "https://github.com/techiesodiq/youtube-clone",
     live: "https://sodiq-youtube-clone.netlify.app/",
   },
   {
